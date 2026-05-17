@@ -21,6 +21,15 @@ Al finalizar el curso, el estudiante será capaz de:
 - **`projects/`**: Guías y enunciados para los proyectos del curso.
 - **`src/`**: Scripts de Python y código fuente reutilizable.
 
+## 📚 Contenido del Curso
+
+### Sesión 1: Fundamentos y Exploración de Datos
+1. [Introducción y Metodología](lectures/01-introduccion-y-metodologia.md)
+2. [Calidad de Datos](lectures/02-calidad-de-datos.md)
+3. [Análisis Exploratorio de Datos (EDA)](lectures/03-analisis-exploratorio-eda.md)
+4. [Ingeniería de Características](lectures/04-ingenieria-de-caracteristicas.md)
+5. [Taller Práctico: Saber PRO](lectures/05-taller-saber-pro.md)
+
 ## 🛠️ Configuración del Entorno
 
 Para este curso, recomendamos utilizar **uv** como gestor de paquetes y entornos virtuales debido a su alta velocidad y confiabilidad.
