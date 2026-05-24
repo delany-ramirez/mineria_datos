@@ -28,7 +28,20 @@ Al finalizar el curso, el estudiante será capaz de:
 2. [Calidad de Datos](lectures/02-calidad-de-datos.md)
 3. [Análisis Exploratorio de Datos (EDA)](lectures/03-analisis-exploratorio-eda.md)
 4. [Ingeniería de Características](lectures/04-ingenieria-de-caracteristicas.md)
-5. [Taller Práctico: Saber PRO](lectures/05-taller-saber-pro.md)
+
+### Sesión 2: Consulta de Datos, Scraping e Introducción a Big Data
+5. [Formatos de Datos y Web Scraping](lectures/05-formatos-y-scraping.md)
+6. [Bases de Datos Relacionales y SQL](lectures/06-bases-datos-sql.md)
+7. [Big Data, Bodegas y Lagos de Datos](lectures/07-big-data.md)
+
+### Sesión 3: Minería de Texto y Detección de Patrones
+8. [Expresiones Regulares y Minería de Texto](lectures/08-mineria-de-texto-patrones.md)
+
+### Sesión 4: Patrones y Análisis de Grafos
+9. [Reglas de Asociación](lectures/09-reglas-de-asociacion.md)
+10. [Detección de Anomalías](lectures/10-deteccion-de-anomalias.md)
+11. [Análisis de Grafos](lectures/11-analisis-de-grafos.md)
+12. [Ética en Minería de Datos e Introducción al Machine Learning](lectures/12-etica-y-ml.md)
 
 ## 🛠️ Configuración del Entorno
 
